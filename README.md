@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Manu Singh
 
-🌱 Data Enthusiast | Big Data Learner | Python & Cloud Explorer  
-💻 I enjoy solving real-world problems using Data Engineering & Machine Learning.
+🌱 Aspiring Data Engineer | Skilled in Python, SQL & PySpark  
+💻 Passionate about building data pipelines and solving real-world problems with data.
+
 
 ---
 
@@ -40,5 +41,5 @@ Analyzed Walmart’s sales data using PySpark and forecasted future trends with 
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manu-singh-a68776ab/)  
 - ✉️ Email: singhmanu0508@gmail.com  
