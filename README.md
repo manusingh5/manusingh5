@@ -7,8 +7,6 @@
 
 ## 💼 Projects
 
-## 💼 Projects
-
 ### 🎧 Spotify ETL Pipeline (AWS + Snowflake)
 Designed a serverless ETL pipeline to collect and load Spotify music data into Snowflake using AWS Lambda, Glue, and Snowpipe.
 
