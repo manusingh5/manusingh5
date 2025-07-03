@@ -26,8 +26,6 @@ Analyzed Walmart’s sales data using PySpark and forecasted future trends with 
 
 ## 🔧 Skills
 
-## 🔧 Skills
-
 - **Programming Languages:** Python, SQL  
 - **Big Data:** PySpark, Hadoop  
 - **Data Engineering:** AWS (Lambda, Glue, S3), Snowflake, Snowpipe  
